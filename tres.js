@@ -1,4 +1,12 @@
 function mostrar()
 {
-	alert("Ejercicio 3");
+	let origenIngresado,
+		cantidadVacunasIngresadas,
+		costoVueloIngresado,
+		respuesta;
+
+		do{
+			
+		}
+		while(respuesta != "n");
 }
